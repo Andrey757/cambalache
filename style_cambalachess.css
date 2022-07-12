@@ -1,0 +1,105 @@
+#principal{
+    margin: 0% 0% 0% 0%;
+    width: 100%;
+
+}
+body{
+    margin: 2% 15% 2% 15%;
+}
+
+h1{
+    margin: 55px 0 0px 0 ;
+	font-size: 16px;
+	font-weight:bold;
+}
+#seccion1 {
+    margin-top: 3px;
+	background: rgb(255, 255, 255);
+	height: 170px;
+	padding-top: 1px;
+}	
+
+#seccion3{
+    margin-top: 3px;
+    background: rgb(255, 255, 255);
+	height: 420px;
+	padding-top: 1px;
+    
+}
+#h1-1{
+	padding-top: 70px;
+}
+#pbold{
+	font-weight:600;
+}
+#main{
+    justify-content: center;
+}
+#p1{
+    width: 45%;
+    margin: auto;
+
+}
+#btnNuevo{
+	color: white;
+	background-color: rgb(79, 78, 78);
+    width: 130px;
+    height: 35px;
+    border: none;
+    font-family: 'Open Sans';
+    font-size: 12px;
+    margin: 2px 7.5%;
+}
+.item{
+    width: 30%;
+    
+    display: flex;
+    margin-left: 3%;
+}
+#contenedor{
+    width: 90%;
+    height: 80%;
+    margin: auto;
+    padding: 5% 0 4% 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.articulo{
+    width: 100px; 
+	height: 90px;
+    border: rgb(0, 0, 0) 1px solid; 
+    display: flex;
+    align-items: center;
+
+}
+.imagen{
+    float: left;
+    margin: auto;
+    height: 10px ;
+    width: 30px;
+}
+
+.arInfo{
+    padding-left: 10px;
+    
+}
+
+.producto{
+    margin: 0;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+
+#main-header {
+    height: 100px;
+}
+
+#logo-header {
+    height: 30px;
+    width: 30px;
+ 
+}

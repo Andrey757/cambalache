@@ -1,0 +1,91 @@
+#principal{
+    margin: 0% 0% 0% 0%;
+    width: 100%;
+
+}
+body{
+    margin: 1% 2% 1% 2%;
+}
+
+h1{
+    text-align: left;
+	font-size: 16px;
+	font-weight:bold;
+}
+p{
+    font-size: 14px;
+}
+#seccion1 {
+    margin-top: 3px;
+	height: 500px;
+}	
+
+
+#h1-1{
+	padding-top: 70px;
+}
+#pbold{
+	font-weight:600;
+}
+#main{
+    justify-content: center;
+    
+}
+#p1{
+    width: 45%;
+    margin: auto;
+
+}
+.imagen{
+    margin: auto;
+}
+.img{
+   width: 49%;
+   height: 500px;
+   background-color: rgb(247, 247, 247);
+   display: flex;
+   align-items: center;
+   margin: 0 0 0 1px;
+}
+.info{
+    margin-left: 3px;
+    width: 51%;
+    height: 500px;
+    
+    background-color: rgb(255, 253, 253);
+}
+
+.contenedor{
+    display: flex;
+    background-color: rgb(240, 240, 240);
+}
+
+.caja{
+    width: 90%;
+    height: 90%;
+    margin: 5% 7% ;
+    
+}
+#main-header {
+    background: rgb(255, 255, 255);
+}
+
+#logo-header {
+    height: 30px;
+    width: 30px;
+ 
+}
+.ingreso{
+    
+	width: 200px;
+    height: 35px;
+    border: none;
+    font-family: 'Open Sans';
+    font-size: 14px;
+	margin: 0 10px 45px 0;
+}
+#Agregar{
+    margin-top: 5%;
+	color: white;
+	background-color: rgb(79, 78, 78);
+}

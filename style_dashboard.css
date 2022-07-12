@@ -1,0 +1,128 @@
+#principal{
+    margin: 0% 0% 0% 0%;
+    width: 100%;
+
+}
+body{
+    margin: 4% 3% 2% 4%;
+}
+
+h1{
+    margin: 50px 0 20px 0 ;
+	font-size: 16px;
+	font-weight:bold;
+}
+#seccion1 {
+    margin-top: 3px;
+	background: rgb(255, 255, 255);
+	height: 180px;
+	padding-top: 1px;
+}	
+#seccion2{
+    margin-top: 3px;
+    background: rgb(255, 255, 255);
+	height: 40px;
+	padding-top: 1px;
+   
+}
+#seccion3{
+    margin-top: 3px;
+    background: rgb(255, 255, 255);
+	height: 360px;
+	padding-top: 1px;
+    
+}
+#h1-1{
+	padding-top: 70px;
+}
+#pbold{
+	font-weight:600;
+}
+#main{
+    justify-content: center;
+}
+#p1{
+    width: 50%;
+
+}
+#btnNuevo{
+	color: white;
+	background-color: rgb(79, 78, 78);
+    width: 130px;
+    height: 35px;
+    border: none;
+    font-family: 'Open Sans';
+    font-size: 12px;
+    margin: 2px 7.5%;
+}
+.item{
+    width: 30%;
+    height: 39%;
+    display: flex;
+    margin-left: 3%;
+}
+#contenedor{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    padding: 3% 0 3% 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.articulo{
+    width: 120px; 
+	height: 120px;
+    border: rgb(0, 0, 0) 1px solid; 
+    display: flex;
+    align-items: center;
+
+}
+.imagen{
+    float: left;
+    margin: auto;
+}
+.arInfo{
+    padding-left: 10px;
+    WIDTH: 43%;
+}
+
+.producto{
+    margin: 0;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.btn{
+    width: 49%;
+    height: 25px;
+    color: white;
+}
+#Editar{
+    margin: 0 0 30.9% 0;
+    background-color: green;
+}
+#Eliminar{
+    bottom:5px;
+    background-color: red;
+}
+#Editar2{
+    margin: 0 0 30.9% 0;
+    background-color: green;
+}
+#Eliminar2{
+    bottom:5px;
+    background-color: red;
+}
+#Editar3{
+    margin: 0 0 30.9% 0;
+    background-color: green;
+}
+#Eliminar3{
+    bottom:5px;
+    background-color: red;
+}
+
+#main-header {
+    height: 120px;
+}

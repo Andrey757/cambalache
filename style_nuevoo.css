@@ -1,0 +1,72 @@
+body{
+    margin: 1.5% 3% 1.5% 4%;
+}
+#seccion1{
+    margin-top: 3px;
+    background-color: white;
+    height: 8em;
+}
+#main-header {
+    height: 80px;
+}
+h1{
+    font-size: 14px;
+}
+.contenido{
+    width: 60%;
+    height: 60%;
+    margin: auto;
+    margin-top: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+input[type="txt" i] {
+    margin-top: 3%;
+    resize: none;
+
+}
+.tipo1{
+    height: 8%;
+    width: 30%;
+}
+#txtLink{
+    width: 100%;
+}
+.tipo2{
+    width: 100%;
+    height: 30%;
+}
+textarea {
+    font-family: 'Open Sans';
+    margin-top: 3%;
+    width: 100%;
+    height: 120px;
+    padding: 2px 5px;
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    resize: none;
+  }
+.btns{
+    display: flex;
+    margin: auto;
+}
+  .ingreso{
+	width: 200px;
+    height: 35px;
+    border: none;
+    font-family: 'Open Sans';
+    font-size: 14px;
+	margin: 60px 15px 45px 0;
+    
+}
+#guardar{
+	color: white;
+	background-color: rgb(79, 78, 78);
+}
+#cancelar{
+	color: #606060;;
+	background-color: rgb(248, 248, 248);
+
+}
